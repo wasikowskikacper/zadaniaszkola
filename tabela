@@ -1,1 +1,75 @@
-
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Dane komputerowe</title>
+</head>
+<body>
+  <h1>Dane komputerowe-Kacper Wąsikowski 2g_g2</h1>
+  <table>
+    <thead>
+      <tr>
+        <th style="background-color: cyan; color: black;">Nazwa karty graficznej</th>
+        <th style="background-color: cyan; color: black;">VRAM</th>
+        <th style="background-color: cyan; color: black;">Taktowanie rdzenia</th>
+        <th style="background-color: cyan; color: black;">Rekomendowana moc zasilacza</th>
+        <th style="background-color: cyan; color: black;">Firma</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="background-color: cyan; color: yellow;">NVIDIA GeForce RTX3090 GAMING X TRIO</td>
+        <td style="background-color: cyan; color: black;">24GB</td>
+        <td style="background-color: cyan; color: black;">1400MHz</td>
+        <td style="background-color: cyan; color: black;">750W</td>
+        <td style="background-color: cyan; color: black;">Nvidia</td>
+      </tr>
+      <tr>
+        <td style="background-color: cyan; color: yellow;">NVIDIA GeForce RTX 3080 Gaming Z Trio</td>
+        <td style="background-color: cyan; color: black;">10GB</td>
+        <td style="background-color: cyan; color: black;">1440MHz</td>
+        <td style="background-color: cyan; color: black;">750W</td>
+        <td style="background-color: cyan; color: black;">Nvidia</td>
+      </tr>
+      <tr>
+        <td style="background-color: cyan; color: yellow;">NVIDIA GeForce RTX 3070 Eagle OC</td>
+        <td style="background-color: cyan; color: black;">8GB</td>
+        <td style="background-color: cyan; color: black;">1500MHz</td>
+        <td style="background-color: cyan; color: black;">650W</td>
+        <td style="background-color: cyan; color: black;">Nvidia</td>
+      </tr>
+      <tr>
+        <td style="background-color: cyan; color: yellow;">NVIDIA GeForce RTX 3060 Ti GAMING OC</td>
+        <td style="background-color: cyan; color: black;">8GB</td>
+        <td style="background-color: cyan; color: black;">1740MHz</td>
+        <td style="background-color: cyan; color: black;">600W</td>
+        <td style="background-color: cyan; color: black;">Nvidia</td>
+      </tr>
+      <tr>
+        <td style="background-color: cyan; color: yellow;">NVIDIA GeForce GTX 1660 SUPER</td>
+        <td style="background-color: cyan; color: black;">6GB</td>
+        <td style="background-color: cyan; color: black;">1530MHz</td>
+        <td style="background-color: cyan; color: black;">450W</td>
+        <td style="background-color: cyan; color: black;">Nvidia</td>
+      </tr>
+       <tr>
+        <td style="background-color: cyan; color: yellow;">NVIDIA GeForce GTX 1080 Ti GAMING OC</td>
+        <td style="background-color: cyan; color: black;">11GB</td>
+        <td style="background-color: cyan; color: black;">1544MHz</td>
+        <td style="background-color: cyan; color: black;">550W</td>
+        <td style="background-color: cyan; color: black;">Nvidia</td>
+      </tr>
+ <tr>
+        <td style="background-color: cyan; color: yellow;">NVIDIA GeForce GTX 1070 GAMING</td>
+        <td style="background-color: cyan; color: black;">8GB</td>
+        <td style="background-color: cyan; color: black;">1531MHz</td>
+        <td style="background-color: cyan; color: black;">450W</td>
+        <td style="background-color: cyan; color: black;">Nvidia</td>
+      </tr>
+ <tr>
+        <td style="background-color: cyan; color: yellow;">NVIDIA GeForce GTX 1060 GAMING X</td>
+        <td style="background-color: cyan; color: black;">6GB</td>
+        <td style="background-color: cyan; color: black;">1594MHz</td>
+        <td style="background-color: cyan; color: black;">400W</td>
+        <td style="background-color: cyan; color: black;">Nvidia</td>
+      </tr>
